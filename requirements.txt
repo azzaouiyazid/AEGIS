@@ -1,0 +1,9 @@
+# The analyses ran with Python 3.10, PyTorch 2.2.1 and Opacus 1.5.2.
+torch==2.2.1
+opacus==1.5.2
+numpy<2
+scipy
+# notebook
+pandas
+matplotlib
+jupyterlab

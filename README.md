@@ -21,7 +21,7 @@ only. The demo needs no GPU; the notebook runs on a CPU at a smaller size.
 Clone the repository and install the requirements in a virtual environment:
 
 ```
-git clone https://github.com/<username>/AEGIS.git
+git clone https://github.com/azzaouiyazid/AEGIS.git
 cd AEGIS
 python -m venv .venv
 source .venv/bin/activate          # on Windows: .venv\Scripts\activate
